@@ -3,7 +3,7 @@
 🌟 Bem-vindo ao projeto da **Landing Page do GTA VI!** Uma apresentação visual e interativa sobre o tão aguardado jogo da Rockstar.
 
 ## 🚀 Visite o site
-👉 [Clique aqui para ver a Landing Page funcionando!](https://seu-link-aqui)
+👉 [Clique aqui para ver a Landing Page funcionando!]([https://seu-link-aqui](https://odevmath.github.io/site-gta6/))
 
 ## 🛠️ Tecnologias Utilizadas
 - **HTML** para a estrutura do site.
